@@ -1,6 +1,7 @@
-# reecho
-Now a days autoencoders is polpular in various field.  But, there is twoapplications  of  autoencoders  which  is  most  popular:   dimensionalityreduction and information retrieval.
-* By using these features we can perform various image processing.* This project has four method of image processing
+# Autoencoder For Image Processing
+Now a days autoencoders is popular in various field.  But, there is twoapplications  of  autoencoders  which  is  most  popular: dimensionality reduction and information retrieval.
+* By using these features we can perform various image processing.
+* This project has four method of image processing
     * Generate Image
     * Noise Reduction
     * Constructing New Images
